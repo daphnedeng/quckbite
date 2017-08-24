@@ -1,7 +1,7 @@
 # Feast
 Web design + development.
 
-This is an in class project. I worked in the a team of three to create this website. 
+This is an in class group project. I worked in the a team of three to create this website. 
 
 You need to download all files to view the website locally.
 
