@@ -1,13 +1,12 @@
-# Feast
+# Quckbite
 Web design + development.
 
-Live preview: https://daphnedeng.github.io/project1/feast/index.html
+[Live preview] (https://daphnedeng.github.io/quckbite/index.html)
 
-This is an in class group project. I worked in the a team of three to create this website. 
+This is a prototype. \*personal project\*. 
 
-You need to download all files to view the website locally.
+Summary:
 
-Summary: 
-- Feast is a meal delivery company that uses organic and locally farmed foods to make healthy meals that are conveniently     delivered to customer’s doorstep.
+* QuckBite lets you discover recipes by entering your ingredients.
 
-To view my other pojects, visit: https://www.ddcreate.me/
+- I also have design pojects with case studies, visit: https://www.ddcreate.me/
