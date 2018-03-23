@@ -1,7 +1,7 @@
 # Quckbite
 Web design + development.
 
-[Live preview] (https://daphnedeng.github.io/quckbite/index.html)
+[Live preview](https://daphnedeng.github.io/quckbite/index.html)
 
 This is a prototype. \*personal project\*. 
 
@@ -9,4 +9,4 @@ Summary:
 
 * QuckBite lets you discover recipes by entering your ingredients.
 
-- I also have design pojects with case studies, visit: https://www.ddcreate.me/
+###### I also have design pojects with case studies, visit: https://www.ddcreate.me/
