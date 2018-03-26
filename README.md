@@ -1,7 +1,7 @@
 # Quckbite
 Web design + development.
 
-[Live preview](https://daphnedeng.github.io/quckbite/)
+► [Live preview](https://daphnedeng.github.io/quckbite/)
 
 This is a prototype. \*personal project\*. 
 
